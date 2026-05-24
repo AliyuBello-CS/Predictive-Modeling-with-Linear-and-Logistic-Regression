@@ -1,0 +1,1 @@
+Built and evaluated regression models using Python and scikit-learn. Used linear regression to predict housing prices and logistic regression to classify personal loan acceptance. Applied data preprocessing, standard scaling, cross-validation, and reported performance metrics including R², MSE, accuracy, F1 score, and confusion matrix.
